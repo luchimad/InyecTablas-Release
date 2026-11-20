@@ -3,9 +3,9 @@
 # 🔧 InyecTablas
 ### Fichas técnicas y apoyo de ensayo para el taller diésel
 
-**Versión 1.0.0 · Edición Base para Windows**
+**Versión 1.1.1 · Edición Base para Windows**
 
-[Descargar InyecTablas Base 1.0.0](https://github.com/luchimad/InyecTablas-Release/releases/download/v1.0.0/InyecTablas-Base-1.0.0.zip) · [Ver todas las versiones](https://github.com/luchimad/InyecTablas-Release/releases)
+[Descargar InyecTablas Base 1.1.1](https://github.com/luchimad/InyecTablas-Release/releases/download/v1.1.1/InyecTablas-Setup-1.1.1.exe) · [Ver todas las versiones](https://github.com/luchimad/InyecTablas-Release/releases)
 
 </div>
 
@@ -27,22 +27,22 @@ La descarga incluye la aplicación de Windows y el **cartucho Demo** con cinco i
 
 ## 🚀 Instalación
 
-1. Descargá `InyecTablas-Base-1.0.0.zip` desde la sección de [Releases](https://github.com/luchimad/InyecTablas-Release/releases).
-2. Extraé el ZIP en una carpeta de tu equipo, manteniendo la carpeta `db` junto al ejecutable.
-3. Abrí `InyecTablas.exe`.
+1. Descargá `InyecTablas-Setup-1.1.1.exe` desde la sección de [Releases](https://github.com/luchimad/InyecTablas-Release/releases).
+2. Ejecutá el instalador y seguí sus indicaciones.
+3. Abrí InyecTablas desde el acceso creado.
 
-No hace falta instalar Python. Para que la aplicación encuentre la base Demo, no muevas el ejecutable fuera de la carpeta extraída.
+No hace falta instalar Python; el instalador incluye el cartucho Demo.
 
 ## 🧪 Uso responsable
 
 InyecTablas ofrece información de consulta y estimación. Las condiciones de ensayo, la interpretación de las mediciones y el dictamen final sobre cada inyector corresponden al técnico responsable. Contrastá los datos con el procedimiento y las especificaciones aplicables al inyector y al banco utilizado.
 
-## 📝 Novedades de la versión 1.0.0
+## 📝 Novedades de la versión 1.1.1
 
-- Personalización del encabezado de las fichas PDF.
-- Presentación de caudales por 500 o 1.000 golpes en el modo adaptado.
-- Conversor Bar / MPa integrado.
-- Identidad InyecTablas en los reportes PDF.
+- Corrección de unidades y frecuencia OEM, y de la compatibilidad de la Hilux Demo.
+- Modo Universal con los puntos OEM disponibles y referencias de retorno identificadas.
+- Protección de arranque, advertencia de probeta y validación de cartuchos.
+- Correcciones en la presentación de 500 golpes y en la búsqueda.
 
 ---
 
